@@ -1,4 +1,4 @@
-= Jaws - HTML5 Javascript web game development library123
+= Jaws - HTML5 Javascript web game development library1234
 
 Depends on JavaScript Edition 5. Works with Chrome 9+, Firefox 3.6+, Safari 5+ & IE9.
 
